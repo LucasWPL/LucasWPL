@@ -6,9 +6,9 @@
 [![Telegram Badge](https://img.shields.io/badge/telegram-1ca0f1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lucaswpl03)
 [![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.lucaswpl@gmail.com)
 
-Sou estudante de informática há 4 anos e trabalho há quase 3 anos na área de desenvolvimento. Até o momento minha linguagem de programação preferida é o PHP. Trabalho com ela desde o início da minha carreira e consegui colher bons frutos com ela. 
+Sou estudante de informática desde 2018 e trabalho como desenvolvedor desde 2020 (também atuei na área de DevOps por um período). Recentemente, retornei ao meu papel como desenvolvedor backend, com foco em PHP e Laravel. Ao longo da minha carreira, desenvolvi uma afinidade especial com a linguagem de programação PHP, que se tornou a minha preferida. Desde o início da minha jornada, tenho trabalhado com PHP e obtive resultados bastante satisfatórios.
 
-Minha paixão sempre foi o backend, mas agora minha busca por conhecimento está também na área de DevOps. Também ando me arriscando no frontend, usando o framework `VueJs`, mas é mais por diversão mesmo :smile:. 
+Embora minha paixão sempre tenha sido o desenvolvimento backend, minha experiência anterior em DevOps me proporcionou valiosos insights na integração entre desenvolvimento e operações. Agora, estou empolgado em aplicar essa experiência enquanto continuo a aprimorar minhas habilidades como desenvolvedor PHP.
 
 Até o momento os meus estudos/conhecimentos estão centralizados nessas tecnologias:
 
